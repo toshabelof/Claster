@@ -1,0 +1,7 @@
+C:\Users\Антон\source\repos\Claster\ClasterApp\bin\Debug\ClasterApp.exe.config
+C:\Users\Антон\source\repos\Claster\ClasterApp\bin\Debug\ClasterApp.exe
+C:\Users\Антон\source\repos\Claster\ClasterApp\bin\Debug\ClasterApp.pdb
+C:\Users\Антон\source\repos\Claster\ClasterApp\obj\Debug\ClasterApp.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\Claster\ClasterApp\obj\Debug\ClasterApp.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Claster\ClasterApp\obj\Debug\ClasterApp.exe
+C:\Users\Антон\source\repos\Claster\ClasterApp\obj\Debug\ClasterApp.pdb
